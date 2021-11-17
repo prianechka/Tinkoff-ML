@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-16T19:07:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369043780",
+        "addr:state": "NY",
+        "aeroway": "aerodrome",
+        "ele": "0",
+        "gnis:county_name": "New York",
+        "gnis:created": "08/01/1994",
+        "gnis:feature_id": "978177",
+        "gnis:feature_type": "Airport",
+        "iata": "QNY",
+        "name": "New York Skyports Incorporated Seaplane Base",
+        "wikidata": "Q10860385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9729007,
+          40.7351534
+        ]
+      },
+      "id": "node/369043780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042015608",
+        "aeroway": "aerodrome",
+        "name": "Evers Seaplane Base",
+        "source": "ourairports.com",
+        "wikidata": "Q34959201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8162003,
+          40.8459015
+        ]
+      },
+      "id": "node/1042015608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042049869",
+        "addr:city": "New York",
+        "addr:housenumber": "2620",
+        "addr:postcode": "11234",
+        "addr:state": "NY",
+        "addr:street": "National Drive",
+        "aeroway": "aerodrome",
+        "name": "Jamaica Bay Seaplane Base",
+        "operator": "Sal Fontana",
+        "operator:type": "private",
+        "source": "ourairports.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.902298,
+          40.6053009
+        ]
+      },
+      "id": "node/1042049869"
+    }
+  ]
+}
